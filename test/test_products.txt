@@ -1,0 +1,12 @@
+Book, 2022-03-120
+Book, 2022-03-100
+Book, 2022-03-90
+Book, 2022-04-80
+Chocolate, 2022-03-1000
+Chocolate, 2022-04-900
+Chocolate, 2022-04-850
+Chocolate, 2022-04-800
+Coffee, 2022-03-1500
+Coffee, 2022-04-1400
+Coffee, 2022-04-1350
+Coffee, 2022-04-1300
