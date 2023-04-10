@@ -1,0 +1,12 @@
+Book, 2022-03, 120
+Book, 2022-03, 100
+Book, 2022-03, 90
+Book, 2022-04, 80
+Chocolate, 2022-03, 25
+Chocolate, 2022-03, 30
+Chocolate, 2022-03, 35
+Chocolate, 2022-04, 40
+Coffee, 2022-03, 150
+Coffee, 2022-03, 140
+Coffee, 2022-03, 130
+Coffee, 2022-04, 120
