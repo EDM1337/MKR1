@@ -14,3 +14,20 @@ def fileRead(filename):
 
     return product_price
 
+def printPrice(product_price):
+    for product, prices in product_price.items():
+        print(product + ":")
+        monthly_prices = {}
+        for month, price in prices:
+            if month in monthly_prices:
+                monthly_prices[month].append(price)
+            else:
+                monthly_prices[month] = [price]
+
+        for month, prices in monthly_prices.items():
+            if len(prices) > 1:
+                price_change = prices[-1] - prices[0]
+                print(month + ": " + str(price_change))
+
+
+
